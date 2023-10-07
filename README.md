@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Kumar Yadav
 ============================================================================================================================================
 
-I'am a  second year undergraduate student
+I'am a  second year undergraduate student of INFORMATION TECHNOLOGY 
 ----------------------------------------
 
-I am currnetly pursuing B.Tech Degree from Don Bosco Institute of Technology affiliated to Mumbai Univesrity,India.
+I am currnetly persuing B.Tech Degree  from Don Bosco Institute of Technology affiliated to Mumbai Univesrity,India.
 
 * 🌍  I'm based in Navi Mumbai,Maharashtra
 * ✉️  You can contact me at [piyush362002@gmail.com](mailto:piyush362002@gmail.com)
