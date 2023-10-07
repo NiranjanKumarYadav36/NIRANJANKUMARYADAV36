@@ -9,7 +9,7 @@ I am currnetly persuing B.Tech Degree  from Don Bosco Institute of Technology af
 * 🌍  I'm based in Navi Mumbai,Maharashtra
 * ✉️  You can contact me at [piyush362002@gmail.com](mailto:piyush362002@gmail.com)
 * 🚀  I'm currently working on [Smart City Blood Bank Desktop Application](http://github.com/Dushyantbhagwat/Java_miniproject.git)
-* 🧠  I'm learning SQl and Google Cloud
+* 🧠  Currently I'm learning SQl and Google Cloud
 
 <a href="https://www.github.com/NiranjanKumarYadav36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NiranjanKumarYadav36?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
