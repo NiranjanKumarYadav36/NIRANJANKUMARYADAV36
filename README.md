@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Kumar Yadav
 ============================================================================================================================================
 
-I'am a  second year undergraduate student of INFORMATION TECHNOLOGY 
+I'am a third year undergraduate student of INFORMATION TECHNOLOGY 
 ----------------------------------------
 
 I am currnetly persuing B.Tech Degree  from Don Bosco Institute of Technology affiliated to Mumbai Univesrity,India.
 
 * 🌍  I'm based in Navi Mumbai,Maharashtra
 * ✉️  You can contact me at [piyush362002@gmail.com](mailto:piyush362002@gmail.com)
-* 🚀  I'm currently working on [Smart City Blood Bank Desktop Application](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application)
-* 🧠  Currently I'm learning Python, SQl and Google Cloud
+* 🚀  I'm currently working on [Job Portal ]()
+* 🧠  Currently I'm learning Python, SQl, Javascript, React Js
 
 <a href="https://www.github.com/NiranjanKumarYadav36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NiranjanKumarYadav36?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
