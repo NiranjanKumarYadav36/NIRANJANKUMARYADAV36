@@ -8,7 +8,7 @@ I am currnetly persuing B.Tech Degree  from Don Bosco Institute of Technology af
 
 * 🌍  I'm based in Navi Mumbai,Maharashtra
 * ✉️  You can contact me at [piyush362002@gmail.com](mailto:piyush362002@gmail.com)
-* 🚀  I'm currently working on [Job Portal ]()
+* 🚀  I'm currently working on [Job Portal ](https://github.com/NiranjanKumarYadav36/Python_Mini_-Project-)
 * 🧠  Currently I'm learning Python, SQl, Javascript, React Js
 
 <a href="https://www.github.com/NiranjanKumarYadav36" target="_blank" rel="noreferrer"><img
@@ -19,6 +19,8 @@ src="https://img.shields.io/github/followers/NiranjanKumarYadav36?logo=github&st
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  
 </p>
 
 
