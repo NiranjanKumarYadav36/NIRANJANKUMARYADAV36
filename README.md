@@ -1,41 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Kumar Yadav
-============================================================================================================================================
+# Hi there! 👋 I'm Niranjan Kumar Yadav
 
-I'am a third year undergraduate student of INFORMATION TECHNOLOGY 
-----------------------------------------
+### Full Stack Developer | IT Undergraduate
 
-I am currnetly persuing B.Tech Degree  from Don Bosco Institute of Technology affiliated to Mumbai Univesrity,India.
+🌍 Based in Navi Mumbai, Maharashtra  
+📚 Pursuing B.Tech in Information Technology @ Don Bosco Institute of Technology  
+💻 Passionate about building modern web applications  
 
-* 🌍  I'm based in Navi Mumbai,Maharashtra
-* ✉️  You can contact me at [piyush362002@gmail.com](mailto:piyush362002@gmail.com)
-* 🚀  I'm currently working on [Job Portal ](https://github.com/NiranjanKumarYadav36/Python_Mini_-Project-)
-* 🧠  Currently I'm learning Python, SQl, Javascript, React Js
+## 🛠️ Tech Stack
 
-<a href="https://www.github.com/NiranjanKumarYadav36" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NiranjanKumarYadav36?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
-### Skills
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  
-</p>
+### Other
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+## 🔭 Current Projects
 
-### Socials
+- **[Vlog Application](https://blogwebsitefrontend-940n.onrender.com/)** - A full-stack Vlog Platform
+- Learning and building projects with React + TypeScript + shadcn/ui
 
-<p align="left"> <a href="https://www.github.com/NiranjanKumarYadav36" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/niranjan-kumar-yadav-11b365284" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-https://www.hackerrank.com/Niran62002
-### Badges
+## 📫 How to reach me
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NiranjanKumarYadav36"><img src="https://github-readme-stats.vercel.app/api?username=NiranjanKumarYadav36&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=3382ed&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="NiranjanKumarYadav36's GitHub stats" /></a>
-
-<a href="http://www.github.com/NiranjanKumarYadav36"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanKumarYadav36&stroke=3382ed&background=27272a&ring=10b981&fire=10b981&currStreakNum=3382ed&currStreakLabel=10b981&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="http://www.github.com/NiranjanKumarYadav36"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NiranjanKumarYadav36&bg_color=27272a&color=3382ed&line=f97316&point=3382ed&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/NiranjanKumarYadav36" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKumarYadav36&langs_count=10&title_color=10b981&text_color=3382ed&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+✉️ Email: [piyush362002@gmail.com](mailto:piyush362002@gmail.com)  
+💼 LinkedIn: [Niranjan Kumar Yadav](https://www.linkedin.com/in/niranjan-kumar-yadav-11b365284)  
+💻 GitHub: [NiranjanKumarYadav36](https://github.com/NiranjanKumarYadav36)  
+⌨️ HackerRank: [Niran62002](https://www.hackerrank.com/Niran62002)
