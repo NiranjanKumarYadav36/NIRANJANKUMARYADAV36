@@ -37,4 +37,3 @@
 ✉️ Email: [piyush362002@gmail.com](mailto:piyush362002@gmail.com)  
 💼 LinkedIn: [Niranjan Kumar Yadav](https://www.linkedin.com/in/niranjan-kumar-yadav-11b365284)  
 💻 GitHub: [NiranjanKumarYadav36](https://github.com/NiranjanKumarYadav36)  
-⌨️ HackerRank: [Niran62002](https://www.hackerrank.com/Niran62002)
